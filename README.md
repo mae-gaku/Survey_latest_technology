@@ -9,7 +9,7 @@
 
 
 ## 今後のToDo
-
+- RaspberryPiで自動運転AIモデル動かす
 - Onnx, TensorRTのTensorRTの深堀
 - CUDAプログラミング
 - 量子化について調査
