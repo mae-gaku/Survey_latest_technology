@@ -8,8 +8,19 @@
 - Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2411.15139)
 - Bridging Large Vision-Language Models and End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2411.15139)
 - EMMA: End-to-End Multimodal Model for Autonomous Driving [paper](https://arxiv.org/abs/2410.23262)
+- DriveMM: All-in-One Large Multimodal Model for Autonomous Driving [paper](https://arxiv.org/abs/2412.07689)
 
 
+### LLM
+- DeepSeek-V3 [paper](https://arxiv.org/abs/2412.19437)
+- 
+
+### VLM
+- 
+
+
+
+- 
 ## 今後のToDo
 - LLM, VLM調査
 - RaspberryPiで自動運転AIモデル動かす
