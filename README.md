@@ -9,14 +9,17 @@
 - Bridging Large Vision-Language Models and End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2411.15139)
 - EMMA: End-to-End Multimodal Model for Autonomous Driving [paper](https://arxiv.org/abs/2410.23262)
 - DriveMM: All-in-One Large Multimodal Model for Autonomous Driving [paper](https://arxiv.org/abs/2412.07689)
+- Cosmos World Foundation Model Platform for Physical AI [paper](https://github.com/nvidia/cosmos)
+- DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT [paper](https://arxiv.org/pdf/2412.19505v2)
 
-
+  
 ### LLM
 - DeepSeek-V3 [paper](https://arxiv.org/abs/2412.19437)
 - 
 
 ### VLM
-- 
+- LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
+- NVILA: Efficient Frontier Visual Language Models [paper](https://arxiv.org/pdf/2412.04468v1)
 
 
 
