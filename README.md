@@ -23,6 +23,11 @@
 - DeepSeek-R1 [paper](DeepSeek-R1)
 - Large Language Diffusion Models: [paper](https://arxiv.org/abs/2502.09992)
 - s1: Simple test-time scaling: [paper](https://arxiv.org/abs/2501.19393)
+- Gemma1~3: [Gemma3](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+- Llama1~3:
+- Gemini Embedding: Generalizable Embeddings from Gemini [paper](https://www.arxiv.org/pdf/2503.07891)
+- Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models [paper](https://arxiv.org/pdf/2503.09573)
+- 
 
 ## VLM
 - LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
@@ -32,7 +37,9 @@
 - Phi-4: [paper](https://arxiv.org/abs/2503.01743)
 - Instella-VL: [blog](https://rocm.blogs.amd.com/artificial-intelligence/Instella-BL-1B-VLM/README.html)
 - Qwen-VL2.5: [paper](https://arxiv.org/abs/2502.13923)
+- Paligemma
 
+  
 
 ## Knowledge Distillation
 - Distillation Scaling Laws: [paper](https://arxiv.org/abs/2502.08606)
