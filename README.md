@@ -9,14 +9,18 @@
 - DriveMM: All-in-One Large Multimodal Model for Autonomous Driving [paper](https://arxiv.org/abs/2412.07689)
 - Cosmos World Foundation Model Platform for Physical AI [paper](https://github.com/nvidia/cosmos)
 - DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT [paper](https://arxiv.org/pdf/2412.19505v2)
-- OpenEMMA
-- Vista
-- Senna
-- DriveGPT4
-- DiffusionDrive
-- GAIA1,2
-- BEVDriver
+- OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2412.15208)
+- Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability [paper](https://arxiv.org/abs/2405.17398)
+- Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2410.22313)
+- DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model [paper](https://arxiv.org/pdf/2310.01412)
+- DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2411.15139)
+- GAIA-1: A Generative World Model for Autonomous Driving [paper](https://arxiv.org/abs/2309.17080)
+- BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving [paper]8https://arxiv.org/pdf/2503.03074)
 - AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [paper](https://arxiv.org/pdf/2503.07608)
+- GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2503.05689)
+- CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting [paper](https://arxiv.org/pdf/2503.07234)
+- DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2503.07656)
+- CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving [paper](https://arxiv.org/pdf/2503.08683)
 
   
 ## LLM
@@ -36,6 +40,9 @@
 - QwQ-32B: Embracing the Power of Reinforcement Learning [blog](https://qwenlm.github.io/blog/qwq-32b/)
 - Q-Filters: Leveraging Query-Key Geometry for Efficient Key-Value Cache Compression [paper](https://arxiv.org/pdf/2503.02812)
 - START: Self-taught Reasoner with Tools [paper](https://arxiv.org/pdf/2503.04625)
+- Transformers without Normalization [paper](https://arxiv.org/pdf/2503.10622)
+- DAPO: an Open-Source LLM Reinforcement Learning System at Scale [paper](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)
+
 
 ## VLM
 - LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
@@ -43,11 +50,15 @@
 - Llama3.2-vision: [paper](https://arxiv.org/abs/2407.21783)
 - SmolVLM: [blog](https://huggingface.co/blog/smolvlm)
 - Phi-4: [paper](https://arxiv.org/abs/2503.01743)
+- InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks [paper](https://arxiv.org/pdf/2312.14238)
+- MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech, and Multimodal Live Streaming on Your Phone [blog](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9)
 - Instella-VL: [blog](https://rocm.blogs.amd.com/artificial-intelligence/Instella-BL-1B-VLM/README.html)
 - Qwen-VL2.5: [paper](https://arxiv.org/abs/2502.13923)
-- Paligemma
+- PaliGemma: A versatile 3B VLM for transfer [paper](https://arxiv.org/pdf/2407.07726)
+- R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [paper](https://arxiv.org/pdf/2503.05379)
+- GRPO for vision - Teaching an LLM to reason about images [blog](https://www.groundlight.ai/blog/visual-reasoning-models)
+- R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [paper](https://arxiv.org/pdf/2503.10615)
 
-  
 
 ## Knowledge Distillation
 - Distillation Scaling Laws: [paper](https://arxiv.org/abs/2502.08606)
