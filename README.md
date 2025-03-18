@@ -15,7 +15,7 @@
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model [paper](https://arxiv.org/pdf/2310.01412)
 - DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2411.15139)
 - GAIA-1: A Generative World Model for Autonomous Driving [paper](https://arxiv.org/abs/2309.17080)
-- BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving [paper]8https://arxiv.org/pdf/2503.03074)
+- BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving [paper](https://arxiv.org/pdf/2503.03074)
 - AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [paper](https://arxiv.org/pdf/2503.07608)
 - GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2503.05689)
 - CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting [paper](https://arxiv.org/pdf/2503.07234)
