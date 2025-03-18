@@ -16,6 +16,7 @@
 - DiffusionDrive
 - GAIA1,2
 - BEVDriver
+- AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [paper](https://arxiv.org/pdf/2503.07608)
 
   
 ## LLM
@@ -27,7 +28,14 @@
 - Llama1~3:
 - Gemini Embedding: Generalizable Embeddings from Gemini [paper](https://www.arxiv.org/pdf/2503.07891)
 - Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models [paper](https://arxiv.org/pdf/2503.09573)
-- 
+- LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens [paper](https://arxiv.org/pdf/2402.13753)
+- LightThinker: Thinking Step-by-Step Compression [paper](https://arxiv.org/pdf/2502.15589)
+- NeoBERT: A Next-Generation BERT [paper](https://arxiv.org/pdf/2502.19587v1)
+- Thinking Slow, Fast:Scaling Inference Compute with Distilled Reasoners [paper](https://arxiv.org/pdf/2502.20339)
+- Democratizing AI: Open-source Scalable LLM Training on GPU-based Supercomputers [paper](https://arxiv.org/pdf/2502.08145)
+- QwQ-32B: Embracing the Power of Reinforcement Learning [blog](https://qwenlm.github.io/blog/qwq-32b/)
+- Q-Filters: Leveraging Query-Key Geometry for Efficient Key-Value Cache Compression [paper](https://arxiv.org/pdf/2503.02812)
+- START: Self-taught Reasoner with Tools [paper](https://arxiv.org/pdf/2503.04625)
 
 ## VLM
 - LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
