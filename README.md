@@ -42,7 +42,9 @@
 - START: Self-taught Reasoner with Tools [paper](https://arxiv.org/pdf/2503.04625)
 - Transformers without Normalization [paper](https://arxiv.org/pdf/2503.10622)
 - DAPO: an Open-Source LLM Reinforcement Learning System at Scale [paper](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)
+- LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [paper](https://arxiv.org/pdf/2503.07536v1)
 
+  
 
 ## VLM
 - LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
@@ -58,8 +60,12 @@
 - R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [paper](https://arxiv.org/pdf/2503.05379)
 - GRPO for vision - Teaching an LLM to reason about images [blog](https://www.groundlight.ai/blog/visual-reasoning-models)
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [paper](https://arxiv.org/pdf/2503.10615)
+- SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion [paper](https://arxiv.org/pdf/2503.11576)
+- NVIDIA Isaac GR00T N1: An Open Foundation Model for Humanoid Robots [paper](https://d1qx31qr3h6wln.cloudfront.net/publications/GR00T_1_Whitepaper.pdf)
+- Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [paper](https://arxiv.org/pdf/2503.14492)
+- Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [paper](https://arxiv.org/abs/2503.12533)
 
-
+- 
 ## Knowledge Distillation
 - Distillation Scaling Laws: [paper](https://arxiv.org/abs/2502.08606)
 
