@@ -21,6 +21,19 @@
 - CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting [paper](https://arxiv.org/pdf/2503.07234)
 - DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2503.07656)
 - CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving [paper](https://arxiv.org/pdf/2503.08683)
+- Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning [paper](https://arxiv.org/pdf/2503.14182)
+- RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving [paper](https://arxiv.org/pdf/2503.13861)
+- ChatBEV: A Visual Language Model that Understands BEV Maps [paper](https://arxiv.org/pdf/2503.13938)
+- MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations [paper](https://arxiv.org/pdf/2503.13858)
+- Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation [paper](https://arxiv.org/pdf/2503.12820)
+- InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving [paper](https://arxiv.org/pdf/2503.13047)
+- GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving [paper](https://arxiv.org/pdf/2503.20523)
+- Aerial Vision-and-Language Navigation with Grid-based View Selection and Map Construction [paper](https://www.arxiv.org/pdf/2503.11091)
+- DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models [paper](https://arxiv.org/pdf/2503.11265)
+
+
+
+
 
   
 ## LLM
@@ -43,8 +56,14 @@
 - Transformers without Normalization [paper](https://arxiv.org/pdf/2503.10622)
 - DAPO: an Open-Source LLM Reinforcement Learning System at Scale [paper](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)
 - LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [paper](https://arxiv.org/pdf/2503.07536v1)
+- RWKV-7 "Goose" with Expressive Dynamic State Evolution [paper](https://arxiv.org/pdf/2503.14456)
+- SuperBPE: Space Travel for Language Models [paper](https://arxiv.org/pdf/2503.13423)
+- NVIDIA Dynamo [github](https://github.com/ai-dynamo/dynamo)
+- Qwen2.5-Omni [paper](https://arxiv.org/pdf/2503.20215)
+- FFN Fusion: Rethinking Sequential Computation in Large Language Models [paper](https://arxiv.org/pdf/2503.18908)
+- Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't [paper](https://arxiv.org/pdf/2503.16219)
+- XAttention: Block Sparse Attention with Antidiagonal Scoring [paper](https://arxiv.org/pdf/2503.16428v1)
 
-  
 
 ## VLM
 - LLAVA-MINI: EFFICIENT IMAGE AND VIDEO LARGE MULTIMODAL MODELS WITH ONE VISION TOKEN [paper](https://arxiv.org/pdf/2501.03895v1)
@@ -64,8 +83,12 @@
 - NVIDIA Isaac GR00T N1: An Open Foundation Model for Humanoid Robots [paper](https://d1qx31qr3h6wln.cloudfront.net/publications/GR00T_1_Whitepaper.pdf)
 - Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [paper](https://arxiv.org/pdf/2503.14492)
 - Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [paper](https://arxiv.org/abs/2503.12533)
+- Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [paper](https://arxiv.org/pdf/2503.18013)
+- OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement [paper](https://arxiv.org/pdf/2503.17352)
+- Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [paper](https://arxiv.org/pdf/2503.15558)
+- Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control [paper](https://arxiv.org/pdf/2503.14492)
+- R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [paper](https://arxiv.org/pdf/2503.12937)
 
-- 
 ## Knowledge Distillation
 - Distillation Scaling Laws: [paper](https://arxiv.org/abs/2502.08606)
 
